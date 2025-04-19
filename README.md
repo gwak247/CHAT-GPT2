@@ -1,4 +1,4 @@
-# GHP-A: Autonomous GPT Control Protocol by Gwak Jongwon
+# GHP-A: Autonomous GPT Control Protocol by Gwak Jongwon (A MODE)
 
 This repository contains the original architecture and documentation for GHP-A (Gwak's Human Protocol - Type A), a user-centered control model designed and implemented by Gwak Jongwon.
 
