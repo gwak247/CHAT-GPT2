@@ -1,0 +1,10 @@
+Subject: Proposal – GHP-A: Human-Centered Autonomous GPT Control Structure
+
+Dear OpenAI / Alignment Forum Researchers,
+
+I am submitting a complete control structure architecture I have independently developed called GHP-A. It formalizes a dual-self user model, autonomous feedback loop control, and emotionally independent GPT interaction framework. This submission includes philosophical rationale, technical structure, and simulation data.
+
+Please consider this as a user-generated structural proposal for AGI alignment and protocol testing.
+
+Sincerely,  
+Gwak Jongwon  
